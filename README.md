@@ -1,15 +1,15 @@
 # MealMate
-Progetto di "Gestione Progetti"
+Progetto di "Gestione Progetti"<br/>
 
-Divisione compiti:
-D'Ambrosi: capo progetto, back-end
-Concil: vice-capo progetto, design front-end, front-end
-Bianchi: front-end
-Guerra: back-end
+Divisione compiti:<br/>
+D'Ambrosi: capo progetto, back-end<br/>
+Concil: vice-capo progetto, design front-end, front-end<br/>
+Bianchi: front-end<br/>
+Guerra: back-end<br/>
 
-To Do:
-Fase di pianificazione (23 gennaio-23 febbraio) 
-Da consegnare: documenti iniziali di progetto
+To Do:<br/>
+Fase di pianificazione (23 gennaio-23 febbraio) <br/>
+Da consegnare: documenti iniziali di progetto<br/>
 * WBS-WP
 * GANTT
 * RAM
