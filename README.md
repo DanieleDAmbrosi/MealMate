@@ -10,8 +10,8 @@ Guerra: back-end
 To Do:
 Fase di pianificazione (23 gennaio-23 febbraio) 
 Da consegnare: documenti iniziali di progetto
-# WBS-WP
-# GANTT
-# RAM
-# Stime di costo (BCWS)
+* WBS-WP
+* GANTT
+* RAM
+* Stime di costo (BCWS)
 
