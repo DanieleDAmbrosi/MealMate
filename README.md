@@ -1,5 +1,6 @@
 # MealMate
 Progetto di "Gestione Progetti"<br/>
+palette colori: https://i.pinimg.com/originals/b1/a4/dc/b1a4dcc6a0503c7a24a1c96c09a28430.jpg <br/>
 
 Divisione compiti:<br/>
 D'Ambrosi: capo progetto, back-end<br/>
