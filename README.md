@@ -8,6 +8,10 @@ Bianchi: front-end<br/>
 Guerra: back-end<br/>
 
 To Do:<br/>
-Fase di pianificazione (23 gennaio-23 febbraio) <br/>
-*	Stime di costo (BCWS) da aggiungere nel project charter e nel powerpoint
+*	Stime di costo (BCWS) da aggiungere nel project charter e nel powerpoint. <br/>
 
+Fase di sviluppo (23 Febbraio -23 Marzo) <br/>
+*	SRS – Software Requirements Specification (specifica requisiti, UCD casi d’uso…). <br/>
+*	Codice sorgente/Sviluppo prodotto. <br/>
+*	Versioni/Revisioni prodotto. <br/>
+*	Controllo tempi e costi (ACWS). <br/>
