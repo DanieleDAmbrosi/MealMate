@@ -1,5 +1,6 @@
 # MealMate
 Progetto di "Gestione Progetti"<br/>
+Figma: https://www.figma.com/team_invite/redeem/EpFtvGxB5ErFf2FA0zriH9
 
 Divisione compiti:<br/>
 D'Ambrosi: capo progetto, back-end<br/>
