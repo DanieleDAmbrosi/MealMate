@@ -1,6 +1,6 @@
 # MealMate
 Progetto di "Gestione Progetti"<br/>
-Figma: https://www.figma.com/team_invite/redeem/EpFtvGxB5ErFf2FA0zriH9
+Figma: https://www.figma.com/team_invite/redeem/EpFtvGxB5ErFf2FA0zriH9<br/>
 Palette: https://images.app.goo.gl/WBN6DE9dpxWEVa6e6
 
 Divisione compiti:<br/>
