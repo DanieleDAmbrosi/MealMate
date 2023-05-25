@@ -6,7 +6,7 @@ Open Food documentation: https://static.openfoodfacts.org/data/data-fields.txt<b
 
 Divisione compiti:<br/>
 D'Ambrosi: capo progetto, back-end<br/>
-Concil: vice-capo progetto, design front-end, front-end<br/>
+Concil: vice-capo progetto, design front-end, front-end, copy writer<br/>
 Bianchi: front-end<br/>
 Guerra: back-end<br/>
 
